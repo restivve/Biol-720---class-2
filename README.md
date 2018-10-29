@@ -1,4 +1,4 @@
-# Biol-720-class-2
+# Biol-720-class-2-part 2
 In class assignment for Oct. 29/18. 
 Group Members: Tamara Fuciarelli, Elise Millar, Victoria Restivo
 
